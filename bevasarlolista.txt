@@ -2,3 +2,5 @@ banán
 alma
 macska
 kutya
+csoki
+puding
