@@ -2,3 +2,6 @@ banán
 alma
 káposzta
 retek
+macska
+kutya
+
